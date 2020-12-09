@@ -2,4 +2,4 @@
 
 ### Demo/Screenshot
 
-[](test_assets/screenshot.png)
+![demo](https://github.com/flamendless/love_seal/blob/main/test_assets/screenshot.png?raw=true)
