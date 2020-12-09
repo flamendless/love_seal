@@ -2,4 +2,4 @@
 
 ### Demo/Screenshot
 
-[](/test_assets/screenshot.png)
+[](test_assets/screenshot.png)
